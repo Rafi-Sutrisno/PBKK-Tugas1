@@ -1,0 +1,10 @@
+D:\Tugas smt 5\PBKK\NetFrameWork Apps\NetFrameWork Apps\bin\Debug\NetFrameWork Apps.exe.config
+D:\Tugas smt 5\PBKK\NetFrameWork Apps\NetFrameWork Apps\bin\Debug\NetFrameWork Apps.exe
+D:\Tugas smt 5\PBKK\NetFrameWork Apps\NetFrameWork Apps\bin\Debug\NetFrameWork Apps.pdb
+D:\Tugas smt 5\PBKK\NetFrameWork Apps\NetFrameWork Apps\obj\Debug\NetFrameWork Apps.csproj.AssemblyReference.cache
+D:\Tugas smt 5\PBKK\NetFrameWork Apps\NetFrameWork Apps\obj\Debug\NetFrameWork_Apps.Form1.resources
+D:\Tugas smt 5\PBKK\NetFrameWork Apps\NetFrameWork Apps\obj\Debug\NetFrameWork_Apps.Properties.Resources.resources
+D:\Tugas smt 5\PBKK\NetFrameWork Apps\NetFrameWork Apps\obj\Debug\NetFrameWork Apps.csproj.GenerateResource.cache
+D:\Tugas smt 5\PBKK\NetFrameWork Apps\NetFrameWork Apps\obj\Debug\NetFrameWork Apps.csproj.CoreCompileInputs.cache
+D:\Tugas smt 5\PBKK\NetFrameWork Apps\NetFrameWork Apps\obj\Debug\NetFrameWork Apps.exe
+D:\Tugas smt 5\PBKK\NetFrameWork Apps\NetFrameWork Apps\obj\Debug\NetFrameWork Apps.pdb

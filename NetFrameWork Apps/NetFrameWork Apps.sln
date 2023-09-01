@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFrameWork Apps", "NetFrameWork Apps\NetFrameWork Apps.csproj", "{F9062ECE-95FB-437D-A781-85D5E8E80B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9062ECE-95FB-437D-A781-85D5E8E80B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9062ECE-95FB-437D-A781-85D5E8E80B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9062ECE-95FB-437D-A781-85D5E8E80B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9062ECE-95FB-437D-A781-85D5E8E80B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E718994F-5146-40ED-99EF-5F71D4CA115D}
+	EndGlobalSection
+EndGlobal
